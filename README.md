@@ -7,3 +7,5 @@
 3. Conditional Workflow: Analyzes the sentiment of a customer review — if positive, it generates a thank-you message and ends; if negative, it diagnoses the issue (type, tone, urgency) and drafts a helpful response.
 
 4. Iterative Workflow: Generates a social media post on a given topic, evaluates it, and continues refining it until it’s approved or the maximum number of iterations is reached.
+
+5. Basic Chatbot with Persistence: A simple chatbot that uses in-memory storage to retain conversation context during a session.
